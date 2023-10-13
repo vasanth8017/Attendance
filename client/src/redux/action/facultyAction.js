@@ -10,7 +10,7 @@ const setFaculty = (data) => {
     }
 }
 
-const url = "http://localhost:5000"
+const url = "https://attns-server.onrender.com/"
 
 const fetchStudentsHelper = (data) => {
     return {
